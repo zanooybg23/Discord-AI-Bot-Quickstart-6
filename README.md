@@ -55,3 +55,8 @@ Furthermore, this project offers a wide range of functions and options, such as 
 We hope that this tool can become a reliable assistant in your work, and we welcome developers and users to participate in the development and use of this project to make it more useful and efficient. Please visit [xtekky/gpt4free-discord][1] to learn more about the original project.
 
 [1]: https://github.com/xtekky/gpt4free-discord
+
+## Copyright Notice
+This program is based on an open-source project [xtekky/gpt4free](https://github.com/xtekky/gpt4free) and has been modified for specific purposes. All rights reserved to the original author.
+
+Copyright (c) 2023 [xtekky](https://github.com/xtekky)
