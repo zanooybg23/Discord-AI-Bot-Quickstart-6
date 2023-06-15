@@ -50,7 +50,7 @@ This program is based on an open-source project called [xtekky/gpt4free-discord]
 
 The primary goal of this project is to provide a user-friendly, efficient, and accurate text generation tool that can be applied in various scenarios such as writing, translation, editing, and more, significantly improving work efficiency and quality.
 
-Furthermore, this project offers a wide range of functions and options, such as the ability to choose different GPT-3.5 model configurations, adjust the length and diversity of generated text, and more, to cater to users' different needs.
+Furthermore, this project offers a wide range of functions and options, such as the ability to choose different GPT-4 model configurations, adjust the length and diversity of generated text, and more, to cater to users' different needs.
 
 We hope that this tool can become a reliable assistant in your work, and we welcome developers and users to participate in the development and use of this project to make it more useful and efficient. Please visit [xtekky/gpt4free-discord][1] to learn more about the original project.
 
