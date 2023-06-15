@@ -7,6 +7,7 @@ Users can enjoy six AI functionalities by simply creating a Discord bot, running
 2. Double-click the `start.exe` file to run the program.
 3. A window will appear asking you to input your bot's key and token, and click the "Select Model" button to choose the desired AI model.
 4. Once the bot is running, it will automatically generate a response based on any text input it receives.
+### Note: To obtain the token, please join the Discord group at https://discord.gg/4Qf72fhbfb.
 
 ## Example
 
