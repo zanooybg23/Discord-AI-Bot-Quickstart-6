@@ -15,7 +15,8 @@ Input: "我今天過得很好！"
 
 Output: "很高興聽到您今天過得很好！是否有任何特別的事情或活動讓您感到開心和滿足呢？如果您有任何需要幫助或分享的事情，請隨時告訴我。"
 
-![image](https://github.com/zanooybg23/Discord-AI-Bot-Quickstart-6/assets/136266449/69ae4cb9-893b-4469-a78b-9be0563e86e9)
+![image](https://github.com/zanooybg23/Discord-AI-Bot-Quickstart-6/assets/136266449/7c04222a-8fc2-4439-ad6e-39a85bf67a31)
+
 
 
 ## UI overview
